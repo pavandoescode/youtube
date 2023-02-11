@@ -9,7 +9,7 @@
 <body>
     <?php 
     
-    require "index.php ";
+    require "code.php ";
     
     ?>
 </body>
